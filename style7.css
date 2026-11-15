@@ -1,0 +1,22 @@
+input {
+  border: solid black;
+  border-radius: 10px;
+  height: 30px;
+  margin-left: 90px;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  width: 140px;
+  height: 35px;
+  margin-left: 120px;
+  border: solid black;
+  border-radius: 30px;
+}
+
+body {
+  background-color: #EFEEFF;
+}

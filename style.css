@@ -1,0 +1,267 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #EFEEFF;
+}
+
+.h21 {
+}
+
+.d2 {
+  display: flex;
+}
+
+.b1 {
+  background-color: white;
+  border: solid #EEEEEE;
+  justify-content: center;
+  text-align: center;
+  display: inline;
+  margin-left: 90px;
+  border-radius: 30px;
+  width: 100px;
+}
+
+.d1 {
+  background-color: #EEEEEE;
+  padding-bottom: 30px;
+  border-radius: 0 0 50px 50px;
+  background-image: url("IMG_٢٠٢٦١١١٢_١٩١٩٥٧.jpg");
+  background-size: 400px 300px;
+  background-repeat: no-repeat;
+  background-image: url('IMG_٢٠٢٦١١١٢_١٩١٩٥٧.jpg');
+
+}
+
+.b2 {
+  background-color: #fff;
+  border: solid #EEEEEE;
+  justify-content: center;
+  text-align: center;
+  margin-left: 10px;
+  border-radius: 30px;
+  width: 100px;
+}
+
+.d3 {
+  width: 50px;
+  height: 50px;
+  border: none;
+  background-color: white;
+  margin-left: -290px;
+  margin-top: 11px;
+  border-radius: 50%;
+}
+
+.h22 {
+  text-align: right;
+  color: #1E1919;
+}
+
+.h11 {
+  text-align: right;
+  line-height: 1px;
+  color: #0B0000;
+}
+
+
+.b3 {
+  width: 120px;
+  height: 60px;
+  justify-content: center;
+  border: solid green;
+  background-color: #EEEEEE;
+  border-radius: 30px;
+  line-height: 1px;
+  margin-left: 200px;
+}
+
+.h23 {
+  color: green;
+}
+
+.d4 {
+  display: flex;
+}
+
+.b4 {
+  margin-left: -250px;
+  width: 120px;
+  height: 60px;
+  border: solid red;
+  background-color: #EEEEEE;
+  border-radius: 30px;
+  line-height: 1px;
+}
+
+.h24 {
+  color: red;
+}
+
+.h25 {
+  text-align: right;
+}
+
+.b5 {
+  width: 370px;
+  height: 50px;
+  border: solid black;
+  border-radius: 15px;
+  background-color: #EFEEFF;
+  text-align: right;
+  padding-bottom: 70px;
+  padding-top: 0px;
+  margin-left: 10px;
+  max-height: 300px;
+  background-image: url('IMG_٢٠٢٦١١١٢_٢٠٥٣٠٥.jpg');
+  background-size: 370px 70px;
+}
+
+.d5 {
+  display: flex;
+}
+
+.h26 {
+  margin-top: -50px;
+  margin-left: 20px;
+  color: red;
+}
+
+.h27 {
+  margin-top: 18px;
+}
+
+.d8 {
+  max-height: 300px;
+  overflow: scroll;
+}
+.h28 {
+  color: green;
+  margin-left: -358px;
+  margin-top: 22px;
+}
+
+.d9 {
+  display: flex;
+}
+
+.b6 {
+  width: 370px;
+  height: 40px;
+  border: solid black;
+  border-radius: 15px;
+  background-color: #EFEEFF;
+  text-align: right;
+  padding-bottom: 70px;
+  margin-left: 10px;
+}
+
+.d10 {
+  
+}
+
+.b9 {
+  width: 370px;
+  height: 50px;
+  border: solid black;
+  border-radius: 15px;
+  background-color: #EFEEFF;
+  text-align: right;
+  padding-bottom: 70px;
+  padding-top: 0px;
+  margin-left: 10px;
+  max-height: 300px;
+  background-image: url('IMG_٢٠٢٦١١١٢_٢١٠٣٥٧.jpg');
+  background-size: 370px 70px;
+  background-repeat: no-repeat;
+}
+.b11 {
+  width: 370px;
+  height: 50px;
+  border: solid black;
+  border-radius: 15px;
+  background-color: #EFEEFF;
+  text-align: right;
+  padding-bottom: 70px;
+  padding-top: 0px;
+  margin-left: 10px;
+  max-height: 300px;
+  background-image: url('IMG_٢٠٢٦١١١٢_٢١٠٩٢٩.jpg');
+  background-size: 370px 70px;
+  background-repeat: no-repeat;
+}
+
+.b12 {
+  width: 370px;
+  height: 50px;
+  border: solid black;
+  border-radius: 15px;
+  background-color: #EFEEFF;
+  text-align: right;
+  padding-bottom: 70px;
+  padding-top: 0px;
+  margin-left: 10px;
+  max-height: 300px;
+  background-image: url('IMG_٢٠٢٦١١١٢_٢١١١٤١.jpg');
+  background-size: 370px 70px;
+  background-repeat: no-repeat;
+}
+
+.b10 {
+  border: solid black;
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  margin-top: 5px;
+  margin-left: 130px;
+  background-color: #EFEEFF;
+}
+
+.d13 {
+  display: flex;
+  background-color: #EEEEEE;
+}
+
+.b14 {
+  border: solid black;
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  margin-top: 5px;
+  margin-left: 13px;
+  background-color: #EFEEFF;
+}
+
+.b20 {
+  width: 370px;
+  height: 50px;
+  border: solid black;
+  border-radius: 15px;
+  background-color: #EFEEFF;
+  text-align: right;
+  padding-bottom: 70px;
+  padding-top: 0px;
+  margin-left: 10px;
+  max-height: 300px;
+    background-image: url('IMG_٢٠٢٦١١١٥_١٥٥٣٥٠.jpg');
+  background-size: 370px 70px;
+  background-repeat: no-repeat;
+}
+
+.b21 {
+  margin-left: 0px;
+  width: 120px;
+  height: 60px;
+  justify-content: center;
+  border: solid green;
+  background-color: #EEEEEE;
+  border-radius: 30px;
+  line-height: 1px;
+  margin-left: 140px;
+}
+
+
+.svg {
+  margin-left: -20px;
+  margin-bottom: 20px;
+}
